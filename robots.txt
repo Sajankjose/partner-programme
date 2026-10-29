@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Prototype only; change after brand/compliance sign-off.
